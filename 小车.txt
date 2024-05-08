@@ -1,0 +1,47 @@
+GPIO PIN端口
+Xshell  树莓派 OS Linux   桌面 Xshell --- 通信----VNC  
+
+2. （1） 电机  （2）轮子 （3）舵机 | 差速变向
+同步  总线电机  闭环控制 
+超声波避障 
+matplotlib opencv 1.摄像头--->python ----> opencv
+
+黑线   PID  积分 -- 微分 I 积分 P  
+
+试 
+
+友情链接：
+https://detail.tmall.com/item.htm?abbucket=14&id=694099408662&ns=1&spm=a21n57.1.0.0.1c7b523chdYlWx
+https://item.taobao.com/item.htm?abbucket=14&id=624474797351&ns=1&spm=a21n57.1.0.0.52cb523chiG92j
+https://detail.tmall.com/item.htm?abbucket=14&id=764475444486&ns=1&spm=a21n57.1.0.0.1c7b523chdYlWx
+https://detail.tmall.com/item.htm?ali_refid=a3_430582_1006:1237180189:N:RY8orBXwa1HYd9sTL7IppMk7t2Iv8CtK:cf5879d6ca17533487150a09634c51fc&ali_trackid=1_cf5879d6ca17533487150a09634c51fc&id=608554421638&spm=a21n57.1.0.0
+https://detail.tmall.com/item.htm?abbucket=14&id=645944642035&ns=1&spm=a21n57.1.0.0.1c7b523chdYlWx
+https://detail.tmall.com/item.htm?abbucket=14&id=646134254538&ns=1&spm=a21n57.1.0.0.1c7b523chdYlWx
+https://item.taobao.com/item.htm?abbucket=14&id=658370820044&ns=1&spm=a21n57.1.0.0.1c7b523chdYlWx
+https://item.taobao.com/item.htm?abbucket=14&id=658370820044&ns=1&spm=a21n57.1.0.0.1c7b523chdYlWx
+https://item.taobao.com/item.htm?abbucket=14&id=723519194451&ns=1&spm=a21n57.1.0.0.1c7b523chdYlWx
+https://item.taobao.com/item.htm?ali_refid=a3_430582_1006:1104166432:N:DAungiPGEjyjEhrwj/AOOg==:db1853bc3a0a699ca7237141ac3ff9a4&ali_trackid=1_db1853bc3a0a699ca7237141ac3ff9a4&id=585452895821&spm=a21n57.1.0.0
+
+参考文献 ：【1】 树莓派串口图 http://t.csdnimg.cn/1io0A
+【2】http://t.csdnimg.cn/MVHQ5 树莓派链接电脑
+【3】http://t.csdnimg.cn/HfpXt 树莓派安装
+【4】http://t.csdnimg.cn/mVCvp 什么是linux
+【5】 c++调用python
+【6】http://t.csdnimg.cn/xnwqd I2C测试 
+【7】 python matplotlib http://t.csdnimg.cn/9eR0U
+【8】http://t.csdnimg.cn/RZjlG opencv使用 
+
+语音识别模块资料链接：https://www.yahboom.com/study/Speech-Recognition           密码：fsef
+
+8 路传感器 https://ganv.com.cn/grayscale_8ways.html
+
+多路电源模块资料
+hi，这是我用百度网盘分享的内容~复制这段内容打开「百度网盘」APP即可获取?
+链接:https://pan.baidu.com/s/1yB6DO9U5UzMDL0KA0dhSyw?
+提取码:bg7f
+
+总线电机资料
+链接：https://pan.baidu.com/s/1YfIliMQTZDQo4D_uIwHIWg 
+提取码：290o
+
+推荐工具 ：万用表 螺丝刀 串口监视器（软件） 杜邦线 
